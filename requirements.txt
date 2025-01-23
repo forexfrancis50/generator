@@ -4,3 +4,4 @@ numpy
 io
 datetime
 reportlab.lib
+BytesIo
