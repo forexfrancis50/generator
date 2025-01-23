@@ -1,7 +1,5 @@
 openpyxl
 pandas
 numpy
-io
 datetime
 reportlab.lib
-BytesIo
